@@ -1,0 +1,58 @@
+************Book Store************
+
+Main Menu
+---------
+1. Show Categories
+2. View Cart
+3. Exit Application
+Select an option from above: 1
+
+Categories
+----------
+1. Romance
+2. Thriller
+3. Biography
+4. History
+Select the category: 1
+
+Romance books are
+-----------------
+1. Gone with the wind
+2. Pride and Prejudice
+3. Outlander
+Select a book for details: 1
+
+------------------------------
+Title: Gone with the Wind
+Author: Margaret Mitchell
+Publication year: 1936
+Language: English
+Country: United States
+Genre: Romance
+Price: $14.78
+------------------------------
+
+Press 1 to add to Cart 
+Press 2 to buy
+Press 3 to go to the previous Menu
+1
+Gone with the Wind added to the Cart...
+
+Romance books are
+-----------------
+1. Gone with the wind
+2. Pride and Prejudice
+3. Outlander
+4. To go to the Categories Menu
+5. To go to the Main Menu
+6. To View Cart
+Select an option: 4
+
+Categories
+----------
+1. Romance
+2. Thriller
+3. Biography
+4. History
+5. 
+Select the category:
